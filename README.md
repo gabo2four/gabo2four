@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabo2four&theme=algolia" alt="linder3hs"  /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linder3hs&layout=compact&theme=algolia"></p>
-
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=linder3hs&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
