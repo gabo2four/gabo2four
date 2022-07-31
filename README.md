@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 ### 🪚 Detail
 <img src="https://github-profile-trophy.vercel.app/?username=gabo2four" />
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gabo2four" />
+</p>
