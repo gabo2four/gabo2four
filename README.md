@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🪚 Detail
-<img src="https://github-profile-trophy.vercel.app/?username=gabo2four" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabo2four&theme=algolia" alt="linder3hs"  /></p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gabo2four" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linder3hs&layout=compact&theme=algolia"></p>
+
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=linder3hs&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p>
